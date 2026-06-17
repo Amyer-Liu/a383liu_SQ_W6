@@ -667,7 +667,7 @@ function drawHUD() {
   fill(255, 240, 180);
   textSize(16);
   textAlign(RIGHT);
-  text("Villagers Banished: " + score, width - 16, 28);
+  text("Score: " + score, width - 16, 28);
 
   let barW  = 160;
   let barH  = 14;
