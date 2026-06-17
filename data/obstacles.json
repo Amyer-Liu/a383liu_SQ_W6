@@ -1,0 +1,27 @@
+{
+  "obstacles": [
+    { "x": 150, "worldY": -400,  "size": 65 },
+    { "x": 220, "worldY": -450,  "size": 50 },
+    { "x": 650, "worldY": -500,  "size": 60 },
+    { "x": 430, "worldY": -480,  "size": 45 },
+
+    { "x": 300, "worldY": -800,  "size": 50 },
+    { "x": 380, "worldY": -860,  "size": 60 },
+    { "x": 450, "worldY": -800,  "size": 50 },
+    { "x": 550, "worldY": -840,  "size": 45 },
+
+    { "x": 100, "worldY": -1200, "size": 65 },
+    { "x": 650, "worldY": -1250, "size": 65 },
+    { "x": 375, "worldY": -1230, "size": 50 },
+
+    { "x": 200, "worldY": -1700, "size": 75 },
+    { "x": 500, "worldY": -1750, "size": 75 },
+    { "x": 350, "worldY": -1780, "size": 55 },
+
+    { "x": 130, "worldY": -2200, "size": 60 },
+    { "x": 350, "worldY": -2260, "size": 60 },
+    { "x": 570, "worldY": -2200, "size": 60 },
+    { "x": 250, "worldY": -2310, "size": 50 },
+    { "x": 480, "worldY": -2310, "size": 50 }
+  ]
+}
