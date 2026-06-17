@@ -717,7 +717,7 @@ function drawWinScreen() {
 
   fill(180, 170, 220);
   textSize(18);
-  text("Villagers Banished: " + score, width / 2, height / 2 + 20);
+  text("Score: " + score, width / 2, height / 2 + 20);
 
   fill(120, 110, 160);
   textSize(14);
@@ -737,7 +737,7 @@ function drawGameOver() {
 
   fill(180, 170, 220);
   textSize(18);
-  text("Villagers Banished: " + score, width / 2, height / 2 + 20);
+  text("Score: " + score, width / 2, height / 2 + 20);
 
   fill(120, 110, 160);
   textSize(14);
